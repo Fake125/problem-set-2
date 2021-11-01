@@ -1,7 +1,7 @@
 # problem-set-2
 my python code solutions to solve a set of defined problems
 
-## Problem_1
+## Problem_1 ( text justification problem )
 
 Given an array of strings words and a width maxWidth, format the text such that each line has exactly maxWidth characters and is fully (left and right) justified.
 
